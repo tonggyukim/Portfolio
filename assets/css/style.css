@@ -217,3 +217,8 @@ input[type=submit]{
     padding: 10px 30px;
     cursor:pointer;
 }
+
+.links {
+    color: white;
+    text-decoration: none;
+}
